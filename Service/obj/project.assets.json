@@ -6002,11 +6002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\ChungHiepPhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Service\\obj\\",
+      "outputPath": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ChungHiepPhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6022,8 +6022,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj"
+            "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj": {}
+    "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj": {
+    "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ChungHiepPhat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChungHiepPhat\\Desktop\\SWD\\ProjectName\\Data\\obj\\",
+        "outputPath": "C:\\Users\\ChungHiepPhat\\Source\\Repos\\phatchse63339\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ChungHiepPhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
