@@ -1,0 +1,12 @@
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Release\netcoreapp3.1\Data.deps.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Release\netcoreapp3.1\Data.runtimeconfig.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Release\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Release\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Release\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Release\netcoreapp3.1\Data.genruntimeconfig.cache

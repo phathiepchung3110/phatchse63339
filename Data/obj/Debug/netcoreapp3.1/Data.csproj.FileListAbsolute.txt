@@ -1,0 +1,24 @@
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

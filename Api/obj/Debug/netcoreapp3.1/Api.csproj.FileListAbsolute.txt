@@ -1,0 +1,332 @@
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.exe
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Service.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Service.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\API20201026214842 - Web Deploy\profile.arm.json
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Chuyên ngành 7\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\API20201026214842 - Web Deploy\profile.arm.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache

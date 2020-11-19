@@ -1,0 +1,30 @@
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Data.dll
+E:\Chuyên ngành 7\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+E:\Chuyên ngành 7\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ChungHiepPhat\Desktop\SWD\ProjectName\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
